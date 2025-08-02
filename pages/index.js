@@ -1,5 +1,3 @@
-
-
 // next image
 import Image from "next/image";
 
@@ -40,9 +38,12 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industrys standard dummy text
-            ever since the 1500s,
+            Full-stack JavaScript Developer (MERN Stack) skilled in building
+            scalable, user-friendly web applications using React.js, Node.js,
+            Express.js, and MongoDB. Strong grasp of frontend UI/UX principles,
+            RESTful API development, and cloud deployment. Passionate about
+            building solutions that create real-world impact. Open to freelance
+            or full-time development roles.
           </motion.p>
           {/* btn */}
           <div className="flex justify-center xl:hidden relative">
