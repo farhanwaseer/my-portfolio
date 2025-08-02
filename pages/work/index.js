@@ -31,8 +31,8 @@ const Work = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:max-0"
             >
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              I build full-stack web apps with clean code, responsive design,
+              and optimized performance using the MERN stack.
             </motion.p>
           </div>
           {/* slider */}

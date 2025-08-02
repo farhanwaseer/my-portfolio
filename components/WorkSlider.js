@@ -10,23 +10,23 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/thumb1.jpg",
-          live: "/"
-        },
-        {
-          title: "title",
-          path: "/thumb2.jpg",
-          live: "/"
-        },
-        {
-          title: "title",
           path: "/thumb3.jpg",
           live: "https://msa-frontend-ashy.vercel.app/"
         },
         {
           title: "title",
+          path: "/thumb2.jpg",
+          live: "#"
+        },
+        {
+          title: "title",
+          path: "/thumb1.jpg",
+          live: "#"
+        },
+        {
+          title: "title",
           path: "/thumb4.jpg",
-          live: "/"
+          live: "#"
         },
       ],
     },
@@ -35,17 +35,17 @@ const workSlides = {
         {
           title: "title",
           path: "/thumb4.jpg",
-          live: "/"
+          live: "#"
         },
         {
           title: "title",
           path: "/thumb1.jpg",
-          live: "/"
+          live: "#"
         },
         {
           title: "title",
           path: "/thumb2.jpg",
-          live: "/"
+          live: "#"
         },
         {
           title: "title",
